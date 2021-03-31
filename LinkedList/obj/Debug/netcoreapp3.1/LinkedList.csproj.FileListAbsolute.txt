@@ -1,0 +1,13 @@
+C:\Development\common-data-structures\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+C:\Development\common-data-structures\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+C:\Development\common-data-structures\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+C:\Development\common-data-structures\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+C:\Development\common-data-structures\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+C:\Development\common-data-structures\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Development\common-data-structures\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+C:\Development\common-data-structures\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+C:\Development\common-data-structures\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+C:\Development\common-data-structures\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\Development\common-data-structures\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+C:\Development\common-data-structures\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Development\common-data-structures\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
